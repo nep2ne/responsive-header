@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font: normal 100%/1.5 sans-serif;
   font-family: Ubuntu, sans-serif;
   overflow: hidden;
 }
@@ -53,7 +54,7 @@ nav a {
   float: none;
   padding: .5rem;
   text-decoration: none;
-  white-space: normal;
+  white-space: nowrap;
   width: 100%;
 }
 
